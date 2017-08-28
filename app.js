@@ -1,4 +1,4 @@
-// app.js
+// app.js:  Mai Application
 var express = require('express');
 var app = express();
 var db = require('./db');
