@@ -1,4 +1,4 @@
-// app.js:  Mai Application
+// app.js:  Main Application
 var express = require('express');
 var app = express();
 var db = require('./db');
